@@ -1,5 +1,11 @@
 # Docker で Wordpress の開発環境を起動
 
+## Version
+
+- MySQL -> 8.0
+- PHP -> 8.2
+- WordPress -> 6.3.1
+
 ## How
 
 ### .env ファイルの作成
